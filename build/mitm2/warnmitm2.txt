@@ -1,0 +1,55 @@
+missing module named macresource - imported by MacOS, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named MacOS - imported by platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named nt - imported by os, ntpath, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named os2 - imported by os, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named _emx_link - imported by os, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named ce - imported by os, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named riscos - imported by os, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named riscospath - imported by os, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named riscosenviron - imported by os, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named msvcrt - imported by subprocess, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py, getpass
+missing module named _subprocess - imported by subprocess, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named 'org.python' - imported by pickle, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py, xml.sax
+missing module named org - imported by copy, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named matplotlib - imported by scapy.arch, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named 'matplotlib.pyplot' - imported by scapy.arch, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named scapy.arch.get_if_raw_hwaddr - imported by scapy.arch, scapy.utils6, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py, scapy.layers.dhcp
+missing module named scapy.arch.get_last_packet_timestamp - imported by scapy.arch, scapy.supersocket, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named 'ctypes.macholib' - imported by ctypes.util, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named pcap - imported by scapy.arch.pcapdnet, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named pcapy - imported by scapy.arch.pcapdnet, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named dnet - imported by scapy.arch.pcapdnet, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named dumbnet - imported by scapy.arch.pcapdnet, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named win32pipe - imported by platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named winreg.OpenKeyEx - imported by winreg, platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named winreg.QueryValueEx - imported by winreg, platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named winreg.CloseKey - imported by winreg, platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named winreg.HKEY_LOCAL_MACHINE - imported by winreg, platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named _winreg - imported by winreg, platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py, mimetypes, urllib
+missing module named gestalt - imported by platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named Carbon - imported by plistlib, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named 'Carbon.Files' - imported by plistlib, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named 'Carbon.File' - imported by plistlib, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named _xmlplus - imported by xml, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named _scproxy - imported by urllib
+missing module named EasyDialogs - imported by getpass
+missing module named SOCKS - imported by ftplib
+missing module named rourl2path - imported by urllib
+missing module named java - imported by platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named 'java.lang' - imported by platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named pyx - imported by scapy.arch, scapy.packet, scapy.plist, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named IPython - imported by scapy.main, /mnt/c/Users/junsik/Downloads/shijack/mitm2.py
+missing module named mpl_toolkits - imported by scapy.layers.inet
+missing module named GeoIP - imported by scapy.layers.inet
+missing module named visual - imported by scapy.layers.inet
+missing module named _dummy_threading - imported by dummy_threading
+missing module named 'Crypto.Hash' - imported by scapy.layers.tls.crypto.pkcs1, scapy.layers.ipsec
+missing module named 'Crypto.Cipher' - imported by scapy.layers.ipsec, scapy.layers.dot11
+missing module named 'Crypto.PublicKey' - imported by scapy.layers.tls.cert
+missing module named ecdsa - imported by scapy.layers.tls, scapy.layers.tls.cert
+missing module named 'ecdsa.numbertheory' - imported by scapy.layers.tls.crypto.curves
+missing module named 'ecdsa.curves' - imported by scapy.layers.tls.crypto.curves
+missing module named 'ecdsa.ellipticcurve' - imported by scapy.layers.tls.crypto.curves
+missing module named Crypto - imported by scapy.layers.tls, scapy.layers.ipsec
+missing module named 'Crypto.Util' - imported by scapy.layers.ipsec
